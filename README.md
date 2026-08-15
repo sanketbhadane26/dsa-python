@@ -12,6 +12,7 @@ My Data Structures and Algorithms practice using Python.
 ## Progress
 
 Arrays → 2 problem
+
 Strings → 0 problems
 
 HashMap → 0 problems
