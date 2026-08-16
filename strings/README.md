@@ -18,7 +18,7 @@ This folder contains my practice problems related to strings.
 | Problem                    | Approach    | Time       | Space |
 |----------------------------|-------------|------------|-------|
 | Valid Anagram              | Sorting     | O(n log n) | O(n)  |
-| Reverse String             | —           | —          | —     |
+| Reverse String             | two pointer | O(n)       | O(1)  |
 | Merge Strings Alternately  | —           | —          | —     |
 | Palindrome                 | —           | —          | —     |
 | Length of Last Word        | —           | —          | —     |
