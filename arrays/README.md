@@ -17,3 +17,4 @@ This folder contains my practice problems related to arrays.
 |--------------|---------------|-------|-------|
 | Two Sum      | Brute Force   | O(n²) | O(1)  |
 | Running Sum  | Brute Force   | O(n)  | O(1)  |
+| Two Sum      | Brute Force   | O(n)  | O(1)  |
