@@ -15,10 +15,10 @@ This folder contains my practice problems related to strings.
 
 ## Problems
 
-| Problem                    | Approach         | Time        | Space  |
-|----------------------------|------------------|-------------|--------|
-| Valid Anagram              | Sorting          | O(n log n)  | O(n)   |
-| Reverse String             | two pointer      | O(n)        | O(1)   |
-| Merge Strings Alternately  | String Traversal | O(max(n,m)) | O(n+m) |
-| Palindrome                 | —                | —           | —      |
-| Length of Last Word        | —                | —           | —      |
+| Problem                        | Approach                | Time        | Space  |
+|--------------------------------|-------------------------|-------------|--------|
+| Valid Anagram                  | Sorting                 | O(n log n)  | O(n)   |
+| Reverse String                 | two pointer             | O(n)        | O(1)   |
+| Merge Strings Alternately      | String Traversal        | O(max(n,m)) | O(n+m) |
+| Palindrome	String Traversal | Reverse	               |O(n)         |	O(n)  |
+| Length of Last Word	         |String Methods/Traversal |	O(n)     |	O(n)  |
