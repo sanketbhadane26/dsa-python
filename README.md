@@ -11,7 +11,7 @@ My Data Structures and Algorithms practice using Python.
 
 ## Progress
 
-Arrays → 4 problem
+Arrays → 5 problem
 
 Strings → 0 problems
 

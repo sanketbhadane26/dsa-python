@@ -19,3 +19,4 @@ This folder contains my practice problems related to arrays.
 | Running Sum            | Brute Force       | O(n)       | O(1)  |
 | Remove Duplicates      | Brute Force       | O(n)       | O(1)  |
 | Maximum Wealth         | Brute Force       | O(m × n)   | O(1)  |
+| Contains Duplicate     | Brute Force       | O(n²)      | O(1)  |
