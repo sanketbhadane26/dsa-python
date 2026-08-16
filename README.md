@@ -13,7 +13,7 @@ My Data Structures and Algorithms practice using Python.
 
 Arrays → 5 problem
 
-Strings → 0 problems
+Strings → 1 problems
 
 HashMap → 0 problems
 
