@@ -14,7 +14,8 @@ This folder contains my practice problems related to HashMap and hashing.
 
 ## Problems
 
-| Problem                    | Approach          | Time       | Space |
-|----------------------------|-------------------|------------|-------|
-| Two Sum                    | HashMap           | O(n)       | O(n)  |
-| Contains Duplicate         | HashMap           | O(n)       | O(n)  |
+| Problem                    | Approach             | Time       | Space |
+|----------------------------|-----------------===--|------------|-------|
+| Two Sum                    | HashMap              | O(n)       | O(n)  |
+| Contains Duplicate         | HashMap              | O(n)       | O(n)  |
+| Valid Anagram              | Frequency Counting   | O(n)       | O(n)  |
