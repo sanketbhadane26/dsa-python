@@ -20,3 +20,4 @@ This folder contains my practice problems related to HashMap and hashing.
 | Contains Duplicate         | HashMap              | O(n)       | O(n)  |
 | Valid Anagram              | Frequency Counting   | O(n)       | O(n)  |
 | Majority Element           | HashMap              | O(n)       | O(n)  |
+| Intersection of Two Arrays | Set                  | O(n + m)   | O(m)  |
