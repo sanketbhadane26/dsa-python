@@ -21,4 +21,6 @@ This folder contains my practice problems related to strings.
 | Reverse String                 | two pointer             | O(n)        | O(1)   |
 | Merge Strings Alternately      | String Traversal        | O(max(n,m)) | O(n+m) |
 | Palindrome	String Traversal | Reverse	               |O(n)         |	O(n)  |
-| Length of Last Word	         |String Methods/Traversal |	O(n)     |	O(n)  |
+| Length of Last Word	         | String Methods/Traversal|	O(n)     |	O(n)  |
+| Valid Palindrome               | Two Pointer             | O(n)        | O(n)   |
+| First Unique Character	     | Brute Force	           | O(n²)	     | O(1)   |

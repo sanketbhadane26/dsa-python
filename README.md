@@ -11,10 +11,10 @@ My Data Structures and Algorithms practice using Python.
 
 ## Progress
 
-Arrays → 5 problem
+Arrays → 7 problem
 
-Strings → 5 problems
+Strings → 6 problems
 
-HashMap → 0 problems
+HashMap → 6 problem
 
-Two Pointers → 0 problems
+Two Pointers → 1 problems
