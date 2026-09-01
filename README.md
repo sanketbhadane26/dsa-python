@@ -8,6 +8,7 @@ My Data Structures and Algorithms practice using Python.
 - Strings
 - HashMap
 - Two Pointers
+- Stack
 
 ## Progress
 
@@ -18,3 +19,5 @@ Strings → 6 problems
 HashMap → 6 problem
 
 Two Pointers → 1 problems
+
+Stack → 2 problems  
