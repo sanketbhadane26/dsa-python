@@ -20,4 +20,4 @@ HashMap → 6 problem
 
 Two Pointers → 1 problems
 
-Stack → 2 problems  
+Stack → 5 problems  
