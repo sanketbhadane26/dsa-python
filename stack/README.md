@@ -16,7 +16,8 @@ This folder contains my practice problems related to stacks.
 
 ## Problems
 
-| Problem           | Approach        | Time | Space |
-| ----------------- | --------------- | ---- | ----- |
-| implement stack   |                 |      |       |
-| Valid Parentheses | Stack + HashMap | O(n) | O(n)  |
+| Problem           | Approach        | Time                  | Space |
+| ----------------- | --------------- | ----                  | ----- |
+| implement stack   |  Array/List     | O(1) per operation    | O(n)  |
+| Valid Parentheses | Stack + HashMap | O(n)                  | O(n)  |
+| Min Stack	        | Two Stacks	  | O(1) per operation	  | O(n)  |
