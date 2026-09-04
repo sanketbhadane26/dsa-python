@@ -21,3 +21,4 @@ This folder contains my practice problems related to stacks.
 | implement stack   |  Array/List     | O(1) per operation    | O(n)  |
 | Valid Parentheses | Stack + HashMap | O(n)                  | O(n)  |
 | Min Stack	        | Two Stacks	  | O(1) per operation	  | O(n)  |
+| Baseball Game     | Stack           | O(n)                  | O(n)  |
