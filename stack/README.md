@@ -9,7 +9,7 @@ This folder contains my practice problems related to stacks.
 * Push
 * Pop
 * Peek / Top
-* Stack traversal
+* Stack traversal 
 * Brackets / Parentheses Matching
 * HashMap with Stack
 * Time and space complexity
